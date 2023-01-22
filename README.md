@@ -23,3 +23,7 @@ Other Credits:
 - Eden Gates - VFX Art
 - Eden Jeffery - Audio Tech
 - [Sam Parkyn](https://soundcloud.com/samparkyn/tracks) - Music Composer
+
+# License information
+All artwork included in this repo are subject to copyright of the original author.
+These are not directly cited in this repo, but will belong to one of the credited people above.
