@@ -5,6 +5,23 @@ This allows me to keep everything in one place - especially given that I keep ha
 
 This repo contains all art uploads and HTML posts.
 
+# About [NAME_HERE].games
+<div class="text-center">
+    <h4>About Us:</h4>
+    <p>
+        [NAME_HERE].games is an independent game development studio composed of final-year Falmouth University students.
+        The studio specializes in creating unique and innovative narrative-driven games with a team of multidisciplinary
+        developers, artists, and designers. We strive to push the boundaries of interactive storytelling and player experience,
+        by creating original and diverse worlds that spark the imagination of players and leave a lasting impression.
+        The studio is dedicated to producing high-quality and polished games that are both entertaining and thought-provoking.
+    </p>
+    <h4>Our Games:</h4>
+    <a href="https://nameheregames.itch.io/lone-sol">
+        <img style="width: 50%" src="https://img.itch.zone/aW1nLzExMTExMDAzLnBuZw==/original/WQjdro.png">
+        <figcaption>Click to learn more</figcaption>
+    </a>
+</div>
+
 # Credits
 Developers for [NAME_HERE].games
 --------------------------------
